@@ -1,4 +1,3 @@
-# UTN-EjerciciosPython-Repetitivas
 # UTN-EjerciciosPython-Condicionales
 
 Este repositorio contiene una colección de ejercicios resueltos en Python enfocados en el uso de **estructuras de control condicionales** (`if`, `elif`, `else`). Está orientado a estudiantes de la **Universidad Tecnológica Nacional (UTN)** y a toda persona interesada en practicar y afianzar sus conocimientos sobre toma de decisiones en programación.
